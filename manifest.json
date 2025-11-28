@@ -1,0 +1,13 @@
+{
+  "name": "CapyDeal - Comparador de Precos",
+  "short_name": "CapyDeal",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#FFD700",
+  "scope": "/",
+  "description": "Busca inteligente de produtos e precos com IA. Compare ofertas, encontre as melhores lojas e economize.",
+  "icons": ["img/capedeal.png"],
+  "categories": ["shopping", "utilities"],
+  "lang": "pt-BR"
+}
