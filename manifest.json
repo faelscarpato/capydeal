@@ -7,7 +7,7 @@
   "theme_color": "#FFD700",
   "scope": "/",
   "description": "Busca inteligente de produtos e precos com IA. Compare ofertas, encontre as melhores lojas e economize.",
-  "icons": ["img/capedeal.png"],
+  "icons": ["img/Capedeal.png"],
   "categories": ["shopping", "utilities"],
   "lang": "pt-BR"
 }
