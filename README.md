@@ -1,4 +1,4 @@
-# CapyDeal - Comparador de Precos Inteligente
+# CapyDeal - Comparador de Preços Inteligente
 
 ## Visao Geral
 CapyDeal e uma PWA (Progressive Web App) de busca de precos e produtos que utiliza a API do Google Gemini 2.5 Flash com ferramentas de Google Search e Google Maps para encontrar as melhores ofertas.
