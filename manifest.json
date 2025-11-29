@@ -1,7 +1,7 @@
 {
   "name": "CapyDeal - Comparador de Precos",
   "short_name": "CapyDeal",
-  "start_url": "/index.html",
+  "start_url": "https://faelscarpato.github.io/capydeal/",
   "display": "standalone",
   "background_color": "#F5F5F5",
   "theme_color": "#FFD700",
